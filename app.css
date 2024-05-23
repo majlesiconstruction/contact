@@ -17,7 +17,7 @@ body{
 header > #logo{
     width: 160px;
     height: 160px;
-    margin: 150px auto 100px auto;
+    margin: 30px auto 100px auto;
 }
 header > #logo > img{
     width: 100%;
@@ -25,6 +25,7 @@ header > #logo > img{
 #container{
     width: 300px;
     margin: 0 auto;
+    margin-top: -50px;
 }
 h3{
     color: #e8a520;
